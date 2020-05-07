@@ -2,7 +2,7 @@
 
 void thisIsANewMethod()
 {
-	
+	std::cout << "critical fix" << std::endl;
 }
 
 
